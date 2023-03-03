@@ -1,0 +1,36 @@
+Process      	:4
+Arrival Time 	:1
+Burst Time   	:1
+Waiting Time	:0
+Turn Around Time :2
+
+Process      	:3
+Arrival Time 	:3
+Burst Time   	:2
+Waiting Time	:2
+Turn Around Time :5
+
+Process      	:1
+Arrival Time 	:3
+Burst Time   	:9
+Waiting Time	:23
+Turn Around Time :34
+
+Process      	:6
+Arrival Time 	:3
+Burst Time   	:9
+Waiting Time	:16
+Turn Around Time :28
+
+Process      	:5
+Arrival Time 	:6
+Burst Time   	:9
+Waiting Time	:43
+Turn Around Time :54
+
+Process      	:2
+Arrival Time 	:7
+Burst Time   	:10
+Waiting Time	:54
+Turn Around Time :66
+
